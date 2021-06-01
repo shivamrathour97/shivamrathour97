@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate with someone from whom i can enhance my skills.  
-- 📫 How to reach me shivamrathour97@gmail.com(you can mail me).
+- 📫 How to reach me shivamrathour97@gmail.com.
 
 <!---
 shivamrathour97/shivamrathour97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
