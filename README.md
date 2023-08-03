@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @shivamrathour97
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Salesforce
 - 💞️ I’m looking to collaborate with someone from whom i can enhance my skills.  
-- 📫 How to reach me shivamrathour97@gmail.com.
+- 📫 How to reach me :shivamrathour97@gmail.com.
+- Contact number: 8707738311
 
 <!---
 shivamrathour97/shivamrathour97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
